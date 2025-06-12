@@ -2,6 +2,8 @@
 
 A professional marketing content generator that automatically creates company brochures by analyzing website content using AI. Built with Python and LLMs, it features real-time generation progress, multi-language support, and a clean web interface.
 
+![Brochure Generator Interface](assets/interface.png)
+
 ## Features
 
 - **Web Scraping**: Uses BeautifulSoup to extract content and links from company websites
