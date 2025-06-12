@@ -1,0 +1,6 @@
+requests>=2.32.2
+beautifulsoup4==4.12.2
+openai>=1.68.2
+python-dotenv==1.0.1
+ipython==8.20.0
+gradio==4.13.0
